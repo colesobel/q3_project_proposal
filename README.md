@@ -1,5 +1,7 @@
 # q3_project_proposal
 
+Cole Sobel and Alex Murphy
+
 Project Description:
 An app that allows people to keep abreast of trends that they would like to follow. Within each trend, users can select the keywords that they would like to follow on social media, along with the companies whose stock market information they would like to keep track of in association with this particular trend. For each trend, a user can see realtime stock market data that updates every 20 seconds or so, along with realtime tweet data. Users can also see historical data for the stocks and the keywords they choose to follow. The app is centered around data manipulation, data visualizations, and realtime data.
 
